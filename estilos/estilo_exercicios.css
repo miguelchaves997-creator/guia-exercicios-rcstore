@@ -1,10 +1,10 @@
 
 body { 
-    font-family: Google Sans, Arial;
+    font-family: Google Sans, Arial, sans-serif;
     line-height: 1.6;
     padding: 20px; 
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     color: #333;
     padding-top: 70px; /* Aumenta o espaço no topo para o novo cabeçalho */
 }
